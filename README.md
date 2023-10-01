@@ -1,0 +1,9 @@
+# cipherbyte
+# Introduction :
+A simple calculator is a device used to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It makes arithmetic calculations easier and faster. This program takes an arithmetic operator (+, -, *, /) and two operands from a user and performs the operation on those two operands depending upon the operator entered by the user.
+
+A face detection program uses the OpenCV library to detect faces in a live stream from webcam or in a video file stored in the local machine. This program detects faces in real time and tracks it. It uses pre-trained XML classifiers for the same. The classifiers used in this program have facial features trained in them. Different classifiers can be used to detect different objects
+
+Student Record Management is based on the concept of recording student details. Here, the user can perform all the tasks like adding, viewing, modifying, and deleting student records. There’s no login system for this project. This is a student record management system project, which enables you to create, read, modify, and delete student Records. It utilizes file handling and shows the class and object of the programming language.
+
+Tic Tac Toe is an integral part of our childhood memories. It is a fun game consisting of two players who battle each other using Xs and Os. Tic-tac-toe is a game where two players X and O fill the hash (#) shaped box (consist of two vertical lines crossing two horizontal lines) with their alternate turns. The player who first fills the box with 3Xs or 3Os in a horizontal, vertical, or diagonal manner will win the game. In some cases, when none of the players succeeds in filling the boxes horizontally, vertically, or diagonally with 3Xs or 3Os, then the game will be considered to be a draw.
